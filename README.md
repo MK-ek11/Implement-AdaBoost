@@ -1,4 +1,4 @@
-# Frequent Pattern Growth Approach for Mining Frequent Itemsets
+# Implement AdaBoost with Decision Stump
 ## Description
 Course: Data Mining and Knowledge Discovery (Fall 2021) <br />
 Task: Write own program
